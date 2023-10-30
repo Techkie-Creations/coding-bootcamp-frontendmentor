@@ -29,7 +29,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [You are already here](https://github.com/Techkie-Creations/coding-bootcamp-frontendmentor)
-- Live Site URL: [Expenses Chart Frontend Mentor](https://techkie-creations.github.io/coding-bootcamp-frontendmentor)
+- Live Site URL: [Coding Bootcamp Frontend Mentor](https://techkie-creations.github.io/coding-bootcamp-frontendmentor)
 
 ## My process
 
